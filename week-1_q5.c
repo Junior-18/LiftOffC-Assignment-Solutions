@@ -10,7 +10,7 @@ int main(){
     scanf("%f", &radius);
 
     diameter = 2*radius;
-    circumfarence = 3.14159*diameter;
+    circumfarence = 3.14159*diameter; //value of pie is taken as 3.14159
     area = 3.14159*radius*radius;
 
     printf("The input Radius of the Circle is : %f\n", radius);
