@@ -12,6 +12,6 @@ int main(){
     printf("The substraction results : %d \n", (a-b));
     printf("The multiplication results : %d \n", (a*b));
     printf("The division results : %f \n", c);
-    printf("The modulus is : %d \n", (a%b));
+    printf("The modulo is : %d \n", (a%b));
     return 0;
 }
