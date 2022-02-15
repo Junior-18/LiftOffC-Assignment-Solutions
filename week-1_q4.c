@@ -6,9 +6,9 @@ perform all arithmetic operations.*/
 int main(){
     int a, b;
     char op;
-    printf("Enter the two operands : \n");
+    printf("Enter the two operands (Two numbers with a space in between) : \n");
     scanf("%d %d", &a, &b);
-    printf("Enter the operator : \n");
+    printf("Enter the operator (+,-,*,/) : \n");
     scanf("%c", &op);
     scanf("%c", &op);
     switch(op){
